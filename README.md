@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @smasithmw
-- 👀 I’m interested in Technology
+- 👋 Hi, I’m Siti Masithoh M. You can call me Masithoh
+- 👀 I’m interested in technology and education
 - 🌱 I’m currently learning Mathematics Education
 
 
