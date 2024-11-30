@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siti Masithoh M. You can call me Masithoh
 - 👀 I’m interested in technology and education
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, and python.
 
 
 <!---
