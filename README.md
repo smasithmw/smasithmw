@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Masithoh</h1>
 <h3 align="center">Undergraduate Mathematics Education</h3>
 
+- 🔭 I’m currently working on **a web-based mathematics learning media**
+
 - 🌱 I’m currently learning **Cybersecurity and Mathematics**
 
 - 📫 How to reach me **masithohmuna@gmail.com**
