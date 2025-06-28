@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a web-based mathematics learning media**
 
-- 🌱 I’m currently learning **Cybersecurity and Mathematics**
+- 🌱 I’m currently learning **cybersecurity and Python scripting**
 
 - 📫 How to reach me **masithohmuna@gmail.com**
 
